@@ -1,11 +1,11 @@
 # Site settings
 author: Trey Williams
-title: 
+title: Why did I decide to study Software Engineering?
 header-img: img/home-bg.png
 email: leonardwilliamsiii20@gmail.com
 copyright_name: Trey Williams
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Rediscovered Interest
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Leonard253
